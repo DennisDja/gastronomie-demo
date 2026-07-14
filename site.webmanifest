@@ -1,0 +1,12 @@
+{
+  "name": "Landhaus Lindenhöhe – Portfolio-Demo",
+  "short_name": "Lindenhöhe Demo",
+  "description": "Fiktives Portfolio-Projekt für Restaurant, Hotel und Catering",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "de-DE",
+  "display": "standalone",
+  "background_color": "#303030",
+  "theme_color": "#303030"
+}
